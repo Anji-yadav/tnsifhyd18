@@ -2,7 +2,7 @@ package com.si.as1;
 //accessing instance and static variables through approach1
 public class Approach1 {
 	int x=10;
-	static String name="vaishu";
+	static String name="anji";
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
      double y= 10.5;
